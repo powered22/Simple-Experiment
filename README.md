@@ -9,8 +9,7 @@ Code modified form : https://github.com/qiangsiwei/bert_distill
 
 ## Features
 - **Question Answering Task**: Implements distillation from BERT to a biLSTM-based student model.
-- **Machine Translation Task**: Distills knowledge from BERT to an RNN encoder-decoder architecture.
-- Supports hyperparameter tuning, including temperature and decoding methods.
+- Supports hyperparameter tuning, including temperature in distillation process
 
 ---
 ##Information of the file 
