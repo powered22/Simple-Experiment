@@ -1,4 +1,4 @@
-# Final6120
+# Simple Experiment
 
 This repository contains the implementation of the project for the Final6120 course. 
 The project focuses on exploring **knowledge distillation** from BERT to RNN models for two key tasks: 
