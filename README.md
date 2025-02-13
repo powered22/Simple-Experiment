@@ -1,6 +1,6 @@
 # Simple Experiment
 
-This repository contains the implementation of the project for the Final6120 course. 
+This repository contains the implementation of the project for the simple fine-tuning. 
 The project focuses on exploring **knowledge distillation** from BERT to RNN models for two key tasks: 
 **Question Answering (QA)**. The goal is to analyze the effectiveness of transferring knowledge from large pre-trained models to lightweight architectures.
 
